@@ -15,7 +15,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "wounds",
   "secondaryTokenAttribute": "strain",
-  "url": "https://gitlab.com/foundrynet/worldbuilding/",
+  "url": "https://github.com/Rysarian/genesys",
   "manifest": "https://raw.githubusercontent.com/Rysarian/genesys/master/system.json",
   "download": "https://github.com/Rysarian/genesys/archive/master.zip",
   "license": "LICENSE.txt"
